@@ -4,7 +4,7 @@ const CartWidget = () => {
     return(
 
         <>
-        ☕
+        ☕ 
         <p>12</p>
         </>
     )
